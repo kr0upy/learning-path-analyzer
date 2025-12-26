@@ -1,0 +1,7 @@
+student_id,timestamp,event_type,resource,score
+1,2024-03-01 09:00,login,system,
+1,2024-03-02 12:00,quiz_attempt,quiz_1,78
+1,2024-03-04 15:30,assignment_submission,hw_1,85
+2,2024-03-01 10:10,login,system,
+2,2024-03-03 14:00,forum_post,discussion_1,
+2,2024-03-05 16:45,quiz_attempt,quiz_1,92
